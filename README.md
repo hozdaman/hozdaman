@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Huzefa Suratwala
 ========================================================================================================================================
 
-DotNet Maui and React Developer
--------------------------------
+React, Next.js and React-Native, Developer
+-------------------------------------------
 
 I am a passionate techie, love creating applications and website. I have experience in HTML, CSS, Javascript, React, React-Native, Python, C# and Dot Net. I enjoy learning and using those skills to create!! Currently focused on create an app using dot net Maui.
 
 * 🌍  I'm based in Chicago
 * ✉️  You can contact me at [hozdaman@gmail.com](mailto:hozdaman@gmail.com)
-* 🧠  I'm learning dot net Maui and AI using python
+* 🧠  I'm am learning AI using python and Huggingface
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
