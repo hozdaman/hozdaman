@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 React, Next.js and React-Native Developer
 -------------------------------------------
 
-I am a passionate techie, love creating applications and website. I have experience in HTML, CSS, Javascript, React, React-Native, Python, C# and Dot Net. I enjoy learning and using those skills to create!! Currently focused on create an app using dot net Maui.
+I am a passionate techie, love creating applications and website. I have experience in HTML, CSS, Javascript, React, React-Native, php, Laravel,  Python, C# and Dot Net. I enjoy learning and using those skills to create!! Currently focused on creating a Next.js app.
 
 * 🌍  I'm based in Chicago
 * ✉️  You can contact me at [hozdaman@gmail.com](mailto:hozdaman@gmail.com)
-* 🧠  I'm am learning AI using python and Huggingface
+* 🧠  I'm am learning php and Laravel
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
